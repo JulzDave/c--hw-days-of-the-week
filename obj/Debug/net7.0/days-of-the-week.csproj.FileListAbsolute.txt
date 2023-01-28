@@ -1,0 +1,15 @@
+E:\C#Programs\days-of-the-week\bin\Debug\net7.0\days-of-the-week.exe
+E:\C#Programs\days-of-the-week\bin\Debug\net7.0\days-of-the-week.deps.json
+E:\C#Programs\days-of-the-week\bin\Debug\net7.0\days-of-the-week.runtimeconfig.json
+E:\C#Programs\days-of-the-week\bin\Debug\net7.0\days-of-the-week.dll
+E:\C#Programs\days-of-the-week\bin\Debug\net7.0\days-of-the-week.pdb
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.csproj.AssemblyReference.cache
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.AssemblyInfoInputs.cache
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.AssemblyInfo.cs
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.csproj.CoreCompileInputs.cache
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.dll
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\refint\days-of-the-week.dll
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.pdb
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\days-of-the-week.genruntimeconfig.cache
+E:\C#Programs\days-of-the-week\obj\Debug\net7.0\ref\days-of-the-week.dll
